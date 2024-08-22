@@ -1,3 +1,1 @@
-function fun() {  
-    alert(location.hostname); 
- }  
+doucument.write(typeof('string'));
