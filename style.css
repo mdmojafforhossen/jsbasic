@@ -1,6 +1,5 @@
-h1{
-    color:red;
-    font-size: 29px;
-    font-family: sans-serif;
-
+.para-stle{
+    font-size: 40px;
+    color: red;
+    text-transform:uppercase;
 }
