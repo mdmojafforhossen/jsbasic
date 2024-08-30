@@ -1,5 +1,8 @@
-.para-stle{
-    font-size: 40px;
+.animat{
+    box-shadow: 0 15px 18px 0 tomato;
     color: red;
-    text-transform:uppercase;
+} 
+
+h1{
+    color:blueviolet;
 }
